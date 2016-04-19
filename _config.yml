@@ -1,28 +1,40 @@
-name: Saltburn by the Sea
 favicon: null
-layout_spectrum: 0.35138
-typography_spectrum: 0.5602527
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Saltburn by the Sea
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1648507
+  brandStrength: 0.7951128
+  rhythmicContrast: 0.2209275
   brandColors:
     - '#306AC0'
     - '#5A463B'
     - '#5DA6EB'
     - '#ADE7FF'
     - '#C99E74'
-  brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.25
-  rhythmicContrast: 0.2209275
-purpose: []
+  lightness: 0.9419473
+typography_spectrum: 0.5602527
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3308271
+analytics:
+  twitter: null
+  google: null
+  facebook: null
