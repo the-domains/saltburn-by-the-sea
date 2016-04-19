@@ -1,14 +1,28 @@
+name: Saltburn by the Sea
+favicon: null
 layout_spectrum: 0.8577694
 typography_spectrum: 0.5602527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1648507
-  lightness: 0.9419473
-  brandStrength: 0.7951128
   brandColors:
     - '#306AC0'
     - '#5A463B'
     - '#5DA6EB'
     - '#ADE7FF'
     - '#C99E74'
+  brandStrength: 0.7951128
+  lightness: 0.9419473
+  saturation: 0.1648507
   rhythmicContrast: 0.2209275
-name: Saltburn by the Sea
+purpose: []
