@@ -1,27 +1,27 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T18:14:56.168Z'
-dateModified: '2016-04-19T18:14:13.639Z'
+datePublished: '2016-04-19T18:27:35.479Z'
+dateModified: '2016-04-19T18:24:18.701Z'
 title: 'Sweeping beaches, cliffs, big skies, surf, seabirds, Saltburn has them all and is our favourite place to be.'
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-19-sweeping-beaches-cliffs-big-skies-surf-seabirds-saltbur.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-sweeping-beaches-cliffs-big-skies-surf-seabirds-saltbur.md
-published: true
-_type: Blurb
+url: sweeping-beaches-cliffs-big-skies-surf-seabirds-saltbur/index.html
+_type: Article
 
 ---
 # Sweeping beaches, cliffs, big skies, surf, seabirds, Saltburn has them all and is our favourite place to be.
