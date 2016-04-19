@@ -1,6 +1,6 @@
 name: Saltburn by the Sea
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.24169
 typography_spectrum: 0.76726
 collections:
   - index:
@@ -35,6 +35,6 @@ color:
     - '#C99E74'
   brandStrength: 0.7951128
   lightness: 0.9419473
-  saturation: 0.1648507
+  saturation: 0.125
   rhythmicContrast: 0.2209275
 purpose: []
