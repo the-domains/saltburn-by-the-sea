@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Saltburn by the Sea has retained much of its original charm as a Victorian seaside resort including its pier, the colourful Italian Gardens and walks through Riftswood. Saltburn has the oldest water balanced cliff tramway in Britain that is still in operation, linking the town with the pier 120 feet below. You can park at sea level where the old fishing village straddles Skelton Beck. The Ship Inn remains as a focal point, steeped in smuggling folklore. The Cleveland Way passes through along the coastline and follows a steep path up to Huntcliff, once the site of a Roman Signal Station.'
-datePublished: '2016-04-19T18:06:40.301Z'
-dateModified: '2016-04-19T18:05:19.095Z'
+datePublished: '2016-04-19T18:12:31.298Z'
+dateModified: '2016-04-19T18:08:25.653Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-19-saltburn-by-the-sea-has-retained-much-of-its-original-charm.md
 published: true
 authors: []
