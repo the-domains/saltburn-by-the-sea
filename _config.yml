@@ -1,5 +1,7 @@
-favicon: null
-name: Saltburn by the Sea
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#C99E74'
   lightness: 0.9419473
 typography_spectrum: 0.5602527
-layout_spectrum: 0.6754386
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.02005013
+favicon: null
+name: Saltburn by the Sea
